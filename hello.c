@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-static int t = 2;
+static int t = 1;
 
 int main()
 {
